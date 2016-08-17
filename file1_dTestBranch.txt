@@ -1,2 +1,5 @@
 This is new file1_dTestBranch.txt for dTestBranch
+<<<<<<< HEAD
 Thsi is new line added to file
+=======
+>>>>>>> dTestBranch
